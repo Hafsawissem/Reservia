@@ -32,4 +32,4 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacance nom
 ## Contact
 Si vous êtes un étudiants OpenClassrooms [devs.coffee](devs.coffee) peut vous être utile.
 
-Vous pouvez me contacter sur le [workplace d'openclassrooms](https://openclassrooms.workplace.com/profile.php?id=100054767869328), sur [twitter](https://twitter.com/lemathisbarre) ou sur mon [adresse mail](mailto:contact@mathisbarre.com)
+Vous pouvez me contacter sur mon [adresse mail](mailto:codeforlife2021@gmail.com)
